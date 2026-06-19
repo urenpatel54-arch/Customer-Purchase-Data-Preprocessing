@@ -1,0 +1,1542 @@
+[
+  {
+    "transaction_id": "T001",
+    "customer_id": 179,
+    "product_id": "P014",
+    "amount": 3244,
+    "payment_mode": "UPI"
+  },
+  {
+    "transaction_id": "T002",
+    "customer_id": 142,
+    "product_id": "P017",
+    "amount": 40000,
+    "payment_mode": "Cash"
+  },
+  {
+    "transaction_id": "T003",
+    "customer_id": 144,
+    "product_id": "P013",
+    "amount": 40000,
+    "payment_mode": "Cash"
+  },
+  {
+    "transaction_id": "T004",
+    "customer_id": 106,
+    "product_id": "P021",
+    "amount": 2882,
+    "payment_mode": null
+  },
+  {
+    "transaction_id": "T005",
+    "customer_id": 144,
+    "product_id": "P032",
+    "amount": 25000,
+    "payment_mode": "UPI"
+  },
+  {
+    "transaction_id": "T006",
+    "customer_id": 210,
+    "product_id": "P044",
+    "amount": 4866,
+    "payment_mode": "Debit Card"
+  },
+  {
+    "transaction_id": "T007",
+    "customer_id": 161,
+    "product_id": "P028",
+    "amount": 40000,
+    "payment_mode": "Debit Card"
+  },
+  {
+    "transaction_id": "T008",
+    "customer_id": 220,
+    "product_id": "P005",
+    "amount": 40000,
+    "payment_mode": "Credit Card"
+  },
+  {
+    "transaction_id": "T009",
+    "customer_id": 197,
+    "product_id": "P023",
+    "amount": 3797,
+    "payment_mode": "UPI"
+  },
+  {
+    "transaction_id": "T010",
+    "customer_id": 166,
+    "product_id": "P047",
+    "amount": 2358,
+    "payment_mode": "Cash"
+  },
+  {
+    "transaction_id": "T011",
+    "customer_id": 154,
+    "product_id": "P024",
+    "amount": 2901,
+    "payment_mode": "Debit Card"
+  },
+  {
+    "transaction_id": "T012",
+    "customer_id": 205,
+    "product_id": "P005",
+    "amount": 40000,
+    "payment_mode": "Debit Card"
+  },
+  {
+    "transaction_id": "T013",
+    "customer_id": 118,
+    "product_id": "P041",
+    "amount": 1276,
+    "payment_mode": "Credit Card"
+  },
+  {
+    "transaction_id": "T014",
+    "customer_id": 105,
+    "product_id": "P047",
+    "amount": 25000,
+    "payment_mode": "Debit Card"
+  },
+  {
+    "transaction_id": "T015",
+    "customer_id": 192,
+    "product_id": "P031",
+    "amount": 1545,
+    "payment_mode": "Debit Card"
+  },
+  {
+    "transaction_id": "T016",
+    "customer_id": 201,
+    "product_id": "P020",
+    "amount": 40000,
+    "payment_mode": "Credit Card"
+  },
+  {
+    "transaction_id": "T017",
+    "customer_id": 180,
+    "product_id": "P003",
+    "amount": 2428,
+    "payment_mode": null
+  },
+  {
+    "transaction_id": "T018",
+    "customer_id": 181,
+    "product_id": "P023",
+    "amount": 40000,
+    "payment_mode": null
+  },
+  {
+    "transaction_id": "T019",
+    "customer_id": 149,
+    "product_id": "P036",
+    "amount": 40000,
+    "payment_mode": "Debit Card"
+  },
+  {
+    "transaction_id": "T020",
+    "customer_id": 152,
+    "product_id": "P002",
+    "amount": 25000,
+    "payment_mode": "Credit Card"
+  },
+  {
+    "transaction_id": "T021",
+    "customer_id": 199,
+    "product_id": "P014",
+    "amount": 40000,
+    "payment_mode": "Debit Card"
+  },
+  {
+    "transaction_id": "T022",
+    "customer_id": 192,
+    "product_id": "P018",
+    "amount": 25000,
+    "payment_mode": "Debit Card"
+  },
+  {
+    "transaction_id": "T023",
+    "customer_id": 195,
+    "product_id": "P030",
+    "amount": 25000,
+    "payment_mode": "Cash"
+  },
+  {
+    "transaction_id": "T024",
+    "customer_id": 142,
+    "product_id": "P009",
+    "amount": 25000,
+    "payment_mode": "Cash"
+  },
+  {
+    "transaction_id": "T025",
+    "customer_id": 190,
+    "product_id": "P012",
+    "amount": 40000,
+    "payment_mode": null
+  },
+  {
+    "transaction_id": "T026",
+    "customer_id": 136,
+    "product_id": "P006",
+    "amount": 2239,
+    "payment_mode": "UPI"
+  },
+  {
+    "transaction_id": "T027",
+    "customer_id": 101,
+    "product_id": "P022",
+    "amount": 25000,
+    "payment_mode": "Credit Card"
+  },
+  {
+    "transaction_id": "T028",
+    "customer_id": 126,
+    "product_id": "P040",
+    "amount": 2522,
+    "payment_mode": "Cash"
+  },
+  {
+    "transaction_id": "T029",
+    "customer_id": 210,
+    "product_id": "P043",
+    "amount": 25000,
+    "payment_mode": "UPI"
+  },
+  {
+    "transaction_id": "T030",
+    "customer_id": 188,
+    "product_id": "P016",
+    "amount": 25000,
+    "payment_mode": "Debit Card"
+  },
+  {
+    "transaction_id": "T031",
+    "customer_id": 161,
+    "product_id": "P004",
+    "amount": 40000,
+    "payment_mode": "Cash"
+  },
+  {
+    "transaction_id": "T032",
+    "customer_id": 153,
+    "product_id": "P031",
+    "amount": 40000,
+    "payment_mode": "Debit Card"
+  },
+  {
+    "transaction_id": "T033",
+    "customer_id": 209,
+    "product_id": "P022",
+    "amount": 40000,
+    "payment_mode": "Cash"
+  },
+  {
+    "transaction_id": "T034",
+    "customer_id": 151,
+    "product_id": "P013",
+    "amount": 25000,
+    "payment_mode": "Cash"
+  },
+  {
+    "transaction_id": "T035",
+    "customer_id": 156,
+    "product_id": "P030",
+    "amount": 3474,
+    "payment_mode": "Cash"
+  },
+  {
+    "transaction_id": "T036",
+    "customer_id": 170,
+    "product_id": "P004",
+    "amount": 40000,
+    "payment_mode": "Credit Card"
+  },
+  {
+    "transaction_id": "T037",
+    "customer_id": 108,
+    "product_id": "P043",
+    "amount": 507,
+    "payment_mode": "Cash"
+  },
+  {
+    "transaction_id": "T038",
+    "customer_id": 190,
+    "product_id": "P050",
+    "amount": 25000,
+    "payment_mode": "UPI"
+  },
+  {
+    "transaction_id": "T039",
+    "customer_id": 192,
+    "product_id": "P046",
+    "amount": 1127,
+    "payment_mode": "UPI"
+  },
+  {
+    "transaction_id": "T040",
+    "customer_id": 182,
+    "product_id": "P016",
+    "amount": 1320,
+    "payment_mode": "Cash"
+  },
+  {
+    "transaction_id": "T041",
+    "customer_id": 160,
+    "product_id": "P005",
+    "amount": 40000,
+    "payment_mode": "UPI"
+  },
+  {
+    "transaction_id": "T042",
+    "customer_id": 156,
+    "product_id": "P047",
+    "amount": 25000,
+    "payment_mode": "Debit Card"
+  },
+  {
+    "transaction_id": "T043",
+    "customer_id": 111,
+    "product_id": "P001",
+    "amount": 40000,
+    "payment_mode": null
+  },
+  {
+    "transaction_id": "T044",
+    "customer_id": 147,
+    "product_id": "P050",
+    "amount": 40000,
+    "payment_mode": "UPI"
+  },
+  {
+    "transaction_id": "T045",
+    "customer_id": 187,
+    "product_id": "P020",
+    "amount": 40000,
+    "payment_mode": null
+  },
+  {
+    "transaction_id": "T046",
+    "customer_id": 171,
+    "product_id": "P045",
+    "amount": 25000,
+    "payment_mode": null
+  },
+  {
+    "transaction_id": "T047",
+    "customer_id": 161,
+    "product_id": "P020",
+    "amount": 25000,
+    "payment_mode": "Cash"
+  },
+  {
+    "transaction_id": "T048",
+    "customer_id": 179,
+    "product_id": "P046",
+    "amount": 25000,
+    "payment_mode": null
+  },
+  {
+    "transaction_id": "T049",
+    "customer_id": 120,
+    "product_id": "P012",
+    "amount": 25000,
+    "payment_mode": "Cash"
+  },
+  {
+    "transaction_id": "T050",
+    "customer_id": 181,
+    "product_id": "P003",
+    "amount": 40000,
+    "payment_mode": "UPI"
+  },
+  {
+    "transaction_id": "T051",
+    "customer_id": 139,
+    "product_id": "P038",
+    "amount": 4644,
+    "payment_mode": "Debit Card"
+  },
+  {
+    "transaction_id": "T052",
+    "customer_id": 135,
+    "product_id": "P018",
+    "amount": 25000,
+    "payment_mode": null
+  },
+  {
+    "transaction_id": "T053",
+    "customer_id": 116,
+    "product_id": "P023",
+    "amount": 2304,
+    "payment_mode": "Debit Card"
+  },
+  {
+    "transaction_id": "T054",
+    "customer_id": 144,
+    "product_id": "P034",
+    "amount": 40000,
+    "payment_mode": "Cash"
+  },
+  {
+    "transaction_id": "T055",
+    "customer_id": 150,
+    "product_id": "P002",
+    "amount": 25000,
+    "payment_mode": "UPI"
+  },
+  {
+    "transaction_id": "T056",
+    "customer_id": 179,
+    "product_id": "P031",
+    "amount": 2253,
+    "payment_mode": "UPI"
+  },
+  {
+    "transaction_id": "T057",
+    "customer_id": 118,
+    "product_id": "P031",
+    "amount": 2930,
+    "payment_mode": null
+  },
+  {
+    "transaction_id": "T058",
+    "customer_id": 127,
+    "product_id": "P012",
+    "amount": 25000,
+    "payment_mode": "Credit Card"
+  },
+  {
+    "transaction_id": "T059",
+    "customer_id": 153,
+    "product_id": "P037",
+    "amount": 2045,
+    "payment_mode": "Debit Card"
+  },
+  {
+    "transaction_id": "T060",
+    "customer_id": 102,
+    "product_id": "P011",
+    "amount": 25000,
+    "payment_mode": "Cash"
+  },
+  {
+    "transaction_id": "T061",
+    "customer_id": 121,
+    "product_id": "P045",
+    "amount": 2975,
+    "payment_mode": "Cash"
+  },
+  {
+    "transaction_id": "T062",
+    "customer_id": 189,
+    "product_id": "P049",
+    "amount": 25000,
+    "payment_mode": "Cash"
+  },
+  {
+    "transaction_id": "T063",
+    "customer_id": 140,
+    "product_id": "P032",
+    "amount": 4299,
+    "payment_mode": "Cash"
+  },
+  {
+    "transaction_id": "T064",
+    "customer_id": 107,
+    "product_id": "P048",
+    "amount": 4380,
+    "payment_mode": "Credit Card"
+  },
+  {
+    "transaction_id": "T065",
+    "customer_id": 169,
+    "product_id": "P004",
+    "amount": 25000,
+    "payment_mode": "Credit Card"
+  },
+  {
+    "transaction_id": "T066",
+    "customer_id": 116,
+    "product_id": "P014",
+    "amount": 25000,
+    "payment_mode": null
+  },
+  {
+    "transaction_id": "T067",
+    "customer_id": 220,
+    "product_id": "P027",
+    "amount": 40000,
+    "payment_mode": "Debit Card"
+  },
+  {
+    "transaction_id": "T068",
+    "customer_id": 215,
+    "product_id": "P033",
+    "amount": 25000,
+    "payment_mode": "Debit Card"
+  },
+  {
+    "transaction_id": "T069",
+    "customer_id": 174,
+    "product_id": "P036",
+    "amount": 553,
+    "payment_mode": null
+  },
+  {
+    "transaction_id": "T070",
+    "customer_id": 220,
+    "product_id": "P004",
+    "amount": 40000,
+    "payment_mode": null
+  },
+  {
+    "transaction_id": "T071",
+    "customer_id": 152,
+    "product_id": "P044",
+    "amount": 25000,
+    "payment_mode": "Credit Card"
+  },
+  {
+    "transaction_id": "T072",
+    "customer_id": 143,
+    "product_id": "P049",
+    "amount": 25000,
+    "payment_mode": "UPI"
+  },
+  {
+    "transaction_id": "T073",
+    "customer_id": 184,
+    "product_id": "P026",
+    "amount": 25000,
+    "payment_mode": null
+  },
+  {
+    "transaction_id": "T074",
+    "customer_id": 161,
+    "product_id": "P004",
+    "amount": 4150,
+    "payment_mode": null
+  },
+  {
+    "transaction_id": "T075",
+    "customer_id": 204,
+    "product_id": "P010",
+    "amount": 25000,
+    "payment_mode": null
+  },
+  {
+    "transaction_id": "T076",
+    "customer_id": 170,
+    "product_id": "P020",
+    "amount": 3656,
+    "payment_mode": null
+  },
+  {
+    "transaction_id": "T077",
+    "customer_id": 158,
+    "product_id": "P047",
+    "amount": 40000,
+    "payment_mode": "UPI"
+  },
+  {
+    "transaction_id": "T078",
+    "customer_id": 207,
+    "product_id": "P023",
+    "amount": 25000,
+    "payment_mode": "Cash"
+  },
+  {
+    "transaction_id": "T079",
+    "customer_id": 204,
+    "product_id": "P016",
+    "amount": 40000,
+    "payment_mode": null
+  },
+  {
+    "transaction_id": "T080",
+    "customer_id": 118,
+    "product_id": "P009",
+    "amount": 3778,
+    "payment_mode": "UPI"
+  },
+  {
+    "transaction_id": "T081",
+    "customer_id": 137,
+    "product_id": "P029",
+    "amount": 25000,
+    "payment_mode": "Credit Card"
+  },
+  {
+    "transaction_id": "T082",
+    "customer_id": 150,
+    "product_id": "P025",
+    "amount": 40000,
+    "payment_mode": "Cash"
+  },
+  {
+    "transaction_id": "T083",
+    "customer_id": 141,
+    "product_id": "P009",
+    "amount": 25000,
+    "payment_mode": "Debit Card"
+  },
+  {
+    "transaction_id": "T084",
+    "customer_id": 196,
+    "product_id": "P020",
+    "amount": 40000,
+    "payment_mode": "Debit Card"
+  },
+  {
+    "transaction_id": "T085",
+    "customer_id": 194,
+    "product_id": "P016",
+    "amount": 25000,
+    "payment_mode": null
+  },
+  {
+    "transaction_id": "T086",
+    "customer_id": 175,
+    "product_id": "P020",
+    "amount": 40000,
+    "payment_mode": null
+  },
+  {
+    "transaction_id": "T087",
+    "customer_id": 178,
+    "product_id": "P003",
+    "amount": 25000,
+    "payment_mode": "UPI"
+  },
+  {
+    "transaction_id": "T088",
+    "customer_id": 108,
+    "product_id": "P016",
+    "amount": 40000,
+    "payment_mode": null
+  },
+  {
+    "transaction_id": "T089",
+    "customer_id": 126,
+    "product_id": "P045",
+    "amount": 1128,
+    "payment_mode": "Cash"
+  },
+  {
+    "transaction_id": "T090",
+    "customer_id": 124,
+    "product_id": "P013",
+    "amount": 4976,
+    "payment_mode": "Credit Card"
+  },
+  {
+    "transaction_id": "T091",
+    "customer_id": 120,
+    "product_id": "P038",
+    "amount": 40000,
+    "payment_mode": "Debit Card"
+  },
+  {
+    "transaction_id": "T092",
+    "customer_id": 144,
+    "product_id": "P040",
+    "amount": 25000,
+    "payment_mode": "Debit Card"
+  },
+  {
+    "transaction_id": "T093",
+    "customer_id": 203,
+    "product_id": "P031",
+    "amount": 25000,
+    "payment_mode": "Debit Card"
+  },
+  {
+    "transaction_id": "T094",
+    "customer_id": 112,
+    "product_id": "P014",
+    "amount": 25000,
+    "payment_mode": "Credit Card"
+  },
+  {
+    "transaction_id": "T095",
+    "customer_id": 211,
+    "product_id": "P015",
+    "amount": 1324,
+    "payment_mode": "UPI"
+  },
+  {
+    "transaction_id": "T096",
+    "customer_id": 205,
+    "product_id": "P010",
+    "amount": 25000,
+    "payment_mode": "UPI"
+  },
+  {
+    "transaction_id": "T097",
+    "customer_id": 137,
+    "product_id": "P015",
+    "amount": 40000,
+    "payment_mode": "UPI"
+  },
+  {
+    "transaction_id": "T098",
+    "customer_id": 130,
+    "product_id": "P023",
+    "amount": 25000,
+    "payment_mode": "UPI"
+  },
+  {
+    "transaction_id": "T099",
+    "customer_id": 146,
+    "product_id": "P045",
+    "amount": 558,
+    "payment_mode": null
+  },
+  {
+    "transaction_id": "T100",
+    "customer_id": 219,
+    "product_id": "P034",
+    "amount": 40000,
+    "payment_mode": null
+  },
+  {
+    "transaction_id": "T101",
+    "customer_id": 146,
+    "product_id": "P046",
+    "amount": 40000,
+    "payment_mode": null
+  },
+  {
+    "transaction_id": "T102",
+    "customer_id": 219,
+    "product_id": "P035",
+    "amount": 25000,
+    "payment_mode": null
+  },
+  {
+    "transaction_id": "T103",
+    "customer_id": 172,
+    "product_id": "P002",
+    "amount": 2150,
+    "payment_mode": "Debit Card"
+  },
+  {
+    "transaction_id": "T104",
+    "customer_id": 190,
+    "product_id": "P015",
+    "amount": 3839,
+    "payment_mode": "Credit Card"
+  },
+  {
+    "transaction_id": "T105",
+    "customer_id": 106,
+    "product_id": "P001",
+    "amount": 931,
+    "payment_mode": "Cash"
+  },
+  {
+    "transaction_id": "T106",
+    "customer_id": 118,
+    "product_id": "P042",
+    "amount": 4253,
+    "payment_mode": "Cash"
+  },
+  {
+    "transaction_id": "T107",
+    "customer_id": 158,
+    "product_id": "P044",
+    "amount": 4183,
+    "payment_mode": "Cash"
+  },
+  {
+    "transaction_id": "T108",
+    "customer_id": 130,
+    "product_id": "P041",
+    "amount": 25000,
+    "payment_mode": "Cash"
+  },
+  {
+    "transaction_id": "T109",
+    "customer_id": 197,
+    "product_id": "P003",
+    "amount": 25000,
+    "payment_mode": "UPI"
+  },
+  {
+    "transaction_id": "T110",
+    "customer_id": 191,
+    "product_id": "P011",
+    "amount": 1381,
+    "payment_mode": "Debit Card"
+  },
+  {
+    "transaction_id": "T111",
+    "customer_id": 128,
+    "product_id": "P015",
+    "amount": 40000,
+    "payment_mode": "Credit Card"
+  },
+  {
+    "transaction_id": "T112",
+    "customer_id": 113,
+    "product_id": "P007",
+    "amount": 2932,
+    "payment_mode": "Cash"
+  },
+  {
+    "transaction_id": "T113",
+    "customer_id": 167,
+    "product_id": "P014",
+    "amount": 25000,
+    "payment_mode": "Debit Card"
+  },
+  {
+    "transaction_id": "T114",
+    "customer_id": 178,
+    "product_id": "P007",
+    "amount": 40000,
+    "payment_mode": null
+  },
+  {
+    "transaction_id": "T115",
+    "customer_id": 192,
+    "product_id": "P048",
+    "amount": 3820,
+    "payment_mode": null
+  },
+  {
+    "transaction_id": "T116",
+    "customer_id": 211,
+    "product_id": "P012",
+    "amount": 25000,
+    "payment_mode": "Debit Card"
+  },
+  {
+    "transaction_id": "T117",
+    "customer_id": 124,
+    "product_id": "P014",
+    "amount": 4795,
+    "payment_mode": "UPI"
+  },
+  {
+    "transaction_id": "T118",
+    "customer_id": 110,
+    "product_id": "P049",
+    "amount": 4385,
+    "payment_mode": "Debit Card"
+  },
+  {
+    "transaction_id": "T119",
+    "customer_id": 137,
+    "product_id": "P050",
+    "amount": 25000,
+    "payment_mode": "Credit Card"
+  },
+  {
+    "transaction_id": "T120",
+    "customer_id": 129,
+    "product_id": "P048",
+    "amount": 974,
+    "payment_mode": null
+  },
+  {
+    "transaction_id": "T121",
+    "customer_id": 140,
+    "product_id": "P010",
+    "amount": 1639,
+    "payment_mode": null
+  },
+  {
+    "transaction_id": "T122",
+    "customer_id": 159,
+    "product_id": "P030",
+    "amount": 40000,
+    "payment_mode": "Cash"
+  },
+  {
+    "transaction_id": "T123",
+    "customer_id": 115,
+    "product_id": "P030",
+    "amount": 3153,
+    "payment_mode": "Credit Card"
+  },
+  {
+    "transaction_id": "T124",
+    "customer_id": 191,
+    "product_id": "P020",
+    "amount": 40000,
+    "payment_mode": null
+  },
+  {
+    "transaction_id": "T125",
+    "customer_id": 153,
+    "product_id": "P034",
+    "amount": 2928,
+    "payment_mode": "Credit Card"
+  },
+  {
+    "transaction_id": "T126",
+    "customer_id": 136,
+    "product_id": "P042",
+    "amount": 25000,
+    "payment_mode": "Cash"
+  },
+  {
+    "transaction_id": "T127",
+    "customer_id": 129,
+    "product_id": "P050",
+    "amount": 40000,
+    "payment_mode": "UPI"
+  },
+  {
+    "transaction_id": "T128",
+    "customer_id": 152,
+    "product_id": "P014",
+    "amount": 40000,
+    "payment_mode": "UPI"
+  },
+  {
+    "transaction_id": "T129",
+    "customer_id": 137,
+    "product_id": "P045",
+    "amount": 1734,
+    "payment_mode": "Credit Card"
+  },
+  {
+    "transaction_id": "T130",
+    "customer_id": 173,
+    "product_id": "P045",
+    "amount": 3290,
+    "payment_mode": "Cash"
+  },
+  {
+    "transaction_id": "T131",
+    "customer_id": 102,
+    "product_id": "P026",
+    "amount": 40000,
+    "payment_mode": null
+  },
+  {
+    "transaction_id": "T132",
+    "customer_id": 220,
+    "product_id": "P044",
+    "amount": 25000,
+    "payment_mode": "Credit Card"
+  },
+  {
+    "transaction_id": "T133",
+    "customer_id": 211,
+    "product_id": "P021",
+    "amount": 4123,
+    "payment_mode": "Cash"
+  },
+  {
+    "transaction_id": "T134",
+    "customer_id": 116,
+    "product_id": "P001",
+    "amount": 25000,
+    "payment_mode": "UPI"
+  },
+  {
+    "transaction_id": "T135",
+    "customer_id": 129,
+    "product_id": "P007",
+    "amount": 25000,
+    "payment_mode": null
+  },
+  {
+    "transaction_id": "T136",
+    "customer_id": 192,
+    "product_id": "P044",
+    "amount": 40000,
+    "payment_mode": null
+  },
+  {
+    "transaction_id": "T137",
+    "customer_id": 205,
+    "product_id": "P049",
+    "amount": 40000,
+    "payment_mode": "Cash"
+  },
+  {
+    "transaction_id": "T138",
+    "customer_id": 210,
+    "product_id": "P010",
+    "amount": 2181,
+    "payment_mode": "Credit Card"
+  },
+  {
+    "transaction_id": "T139",
+    "customer_id": 105,
+    "product_id": "P003",
+    "amount": 25000,
+    "payment_mode": null
+  },
+  {
+    "transaction_id": "T140",
+    "customer_id": 139,
+    "product_id": "P020",
+    "amount": 25000,
+    "payment_mode": "Cash"
+  },
+  {
+    "transaction_id": "T141",
+    "customer_id": 106,
+    "product_id": "P019",
+    "amount": 1171,
+    "payment_mode": "Cash"
+  },
+  {
+    "transaction_id": "T142",
+    "customer_id": 191,
+    "product_id": "P012",
+    "amount": 4309,
+    "payment_mode": "Debit Card"
+  },
+  {
+    "transaction_id": "T143",
+    "customer_id": 105,
+    "product_id": "P021",
+    "amount": 40000,
+    "payment_mode": "Cash"
+  },
+  {
+    "transaction_id": "T144",
+    "customer_id": 165,
+    "product_id": "P042",
+    "amount": 25000,
+    "payment_mode": null
+  },
+  {
+    "transaction_id": "T145",
+    "customer_id": 132,
+    "product_id": "P028",
+    "amount": 25000,
+    "payment_mode": "Credit Card"
+  },
+  {
+    "transaction_id": "T146",
+    "customer_id": 191,
+    "product_id": "P040",
+    "amount": 3443,
+    "payment_mode": "Credit Card"
+  },
+  {
+    "transaction_id": "T147",
+    "customer_id": 113,
+    "product_id": "P019",
+    "amount": 538,
+    "payment_mode": "Credit Card"
+  },
+  {
+    "transaction_id": "T148",
+    "customer_id": 174,
+    "product_id": "P030",
+    "amount": 40000,
+    "payment_mode": null
+  },
+  {
+    "transaction_id": "T149",
+    "customer_id": 134,
+    "product_id": "P026",
+    "amount": 2008,
+    "payment_mode": "Cash"
+  },
+  {
+    "transaction_id": "T150",
+    "customer_id": 107,
+    "product_id": "P038",
+    "amount": 319,
+    "payment_mode": null
+  },
+  {
+    "transaction_id": "T151",
+    "customer_id": 187,
+    "product_id": "P007",
+    "amount": 3674,
+    "payment_mode": "Debit Card"
+  },
+  {
+    "transaction_id": "T152",
+    "customer_id": 202,
+    "product_id": "P005",
+    "amount": 25000,
+    "payment_mode": "Debit Card"
+  },
+  {
+    "transaction_id": "T153",
+    "customer_id": 213,
+    "product_id": "P046",
+    "amount": 25000,
+    "payment_mode": "UPI"
+  },
+  {
+    "transaction_id": "T154",
+    "customer_id": 185,
+    "product_id": "P013",
+    "amount": 25000,
+    "payment_mode": "Cash"
+  },
+  {
+    "transaction_id": "T155",
+    "customer_id": 146,
+    "product_id": "P040",
+    "amount": 1941,
+    "payment_mode": "Debit Card"
+  },
+  {
+    "transaction_id": "T156",
+    "customer_id": 109,
+    "product_id": "P001",
+    "amount": 25000,
+    "payment_mode": "UPI"
+  },
+  {
+    "transaction_id": "T157",
+    "customer_id": 208,
+    "product_id": "P026",
+    "amount": 1809,
+    "payment_mode": "Credit Card"
+  },
+  {
+    "transaction_id": "T158",
+    "customer_id": 152,
+    "product_id": "P049",
+    "amount": 25000,
+    "payment_mode": "Debit Card"
+  },
+  {
+    "transaction_id": "T159",
+    "customer_id": 138,
+    "product_id": "P035",
+    "amount": 25000,
+    "payment_mode": "UPI"
+  },
+  {
+    "transaction_id": "T160",
+    "customer_id": 118,
+    "product_id": "P027",
+    "amount": 2272,
+    "payment_mode": "Cash"
+  },
+  {
+    "transaction_id": "T161",
+    "customer_id": 178,
+    "product_id": "P035",
+    "amount": 40000,
+    "payment_mode": "Cash"
+  },
+  {
+    "transaction_id": "T162",
+    "customer_id": 192,
+    "product_id": "P045",
+    "amount": 25000,
+    "payment_mode": "Cash"
+  },
+  {
+    "transaction_id": "T163",
+    "customer_id": 189,
+    "product_id": "P015",
+    "amount": 1209,
+    "payment_mode": "UPI"
+  },
+  {
+    "transaction_id": "T164",
+    "customer_id": 132,
+    "product_id": "P009",
+    "amount": 25000,
+    "payment_mode": null
+  },
+  {
+    "transaction_id": "T165",
+    "customer_id": 106,
+    "product_id": "P027",
+    "amount": 25000,
+    "payment_mode": "Credit Card"
+  },
+  {
+    "transaction_id": "T166",
+    "customer_id": 217,
+    "product_id": "P015",
+    "amount": 437,
+    "payment_mode": "UPI"
+  },
+  {
+    "transaction_id": "T167",
+    "customer_id": 101,
+    "product_id": "P022",
+    "amount": 25000,
+    "payment_mode": "UPI"
+  },
+  {
+    "transaction_id": "T168",
+    "customer_id": 130,
+    "product_id": "P021",
+    "amount": 25000,
+    "payment_mode": "Debit Card"
+  },
+  {
+    "transaction_id": "T169",
+    "customer_id": 112,
+    "product_id": "P036",
+    "amount": 25000,
+    "payment_mode": "UPI"
+  },
+  {
+    "transaction_id": "T170",
+    "customer_id": 134,
+    "product_id": "P027",
+    "amount": 40000,
+    "payment_mode": "UPI"
+  },
+  {
+    "transaction_id": "T171",
+    "customer_id": 198,
+    "product_id": "P010",
+    "amount": 25000,
+    "payment_mode": "Credit Card"
+  },
+  {
+    "transaction_id": "T172",
+    "customer_id": 178,
+    "product_id": "P018",
+    "amount": 25000,
+    "payment_mode": "Cash"
+  },
+  {
+    "transaction_id": "T173",
+    "customer_id": 164,
+    "product_id": "P020",
+    "amount": 40000,
+    "payment_mode": "Debit Card"
+  },
+  {
+    "transaction_id": "T174",
+    "customer_id": 165,
+    "product_id": "P014",
+    "amount": 1897,
+    "payment_mode": "Debit Card"
+  },
+  {
+    "transaction_id": "T175",
+    "customer_id": 178,
+    "product_id": "P026",
+    "amount": 40000,
+    "payment_mode": null
+  },
+  {
+    "transaction_id": "T176",
+    "customer_id": 183,
+    "product_id": "P015",
+    "amount": 25000,
+    "payment_mode": "UPI"
+  },
+  {
+    "transaction_id": "T177",
+    "customer_id": 212,
+    "product_id": "P009",
+    "amount": 3391,
+    "payment_mode": "Cash"
+  },
+  {
+    "transaction_id": "T178",
+    "customer_id": 189,
+    "product_id": "P008",
+    "amount": 40000,
+    "payment_mode": null
+  },
+  {
+    "transaction_id": "T179",
+    "customer_id": 154,
+    "product_id": "P010",
+    "amount": 40000,
+    "payment_mode": "UPI"
+  },
+  {
+    "transaction_id": "T180",
+    "customer_id": 187,
+    "product_id": "P041",
+    "amount": 25000,
+    "payment_mode": "UPI"
+  },
+  {
+    "transaction_id": "T181",
+    "customer_id": 107,
+    "product_id": "P049",
+    "amount": 25000,
+    "payment_mode": "Cash"
+  },
+  {
+    "transaction_id": "T182",
+    "customer_id": 218,
+    "product_id": "P046",
+    "amount": 40000,
+    "payment_mode": "Cash"
+  },
+  {
+    "transaction_id": "T183",
+    "customer_id": 101,
+    "product_id": "P033",
+    "amount": 4880,
+    "payment_mode": "Credit Card"
+  },
+  {
+    "transaction_id": "T184",
+    "customer_id": 153,
+    "product_id": "P047",
+    "amount": 25000,
+    "payment_mode": "Credit Card"
+  },
+  {
+    "transaction_id": "T185",
+    "customer_id": 125,
+    "product_id": "P036",
+    "amount": 40000,
+    "payment_mode": "Cash"
+  },
+  {
+    "transaction_id": "T186",
+    "customer_id": 187,
+    "product_id": "P009",
+    "amount": 25000,
+    "payment_mode": "UPI"
+  },
+  {
+    "transaction_id": "T187",
+    "customer_id": 142,
+    "product_id": "P049",
+    "amount": 606,
+    "payment_mode": "Debit Card"
+  },
+  {
+    "transaction_id": "T188",
+    "customer_id": 206,
+    "product_id": "P008",
+    "amount": 316,
+    "payment_mode": "UPI"
+  },
+  {
+    "transaction_id": "T189",
+    "customer_id": 110,
+    "product_id": "P039",
+    "amount": 25000,
+    "payment_mode": "Credit Card"
+  },
+  {
+    "transaction_id": "T190",
+    "customer_id": 145,
+    "product_id": "P032",
+    "amount": 25000,
+    "payment_mode": "Cash"
+  },
+  {
+    "transaction_id": "T191",
+    "customer_id": 115,
+    "product_id": "P041",
+    "amount": 40000,
+    "payment_mode": "Debit Card"
+  },
+  {
+    "transaction_id": "T192",
+    "customer_id": 126,
+    "product_id": "P023",
+    "amount": 40000,
+    "payment_mode": "Debit Card"
+  },
+  {
+    "transaction_id": "T193",
+    "customer_id": 148,
+    "product_id": "P032",
+    "amount": 25000,
+    "payment_mode": "Credit Card"
+  },
+  {
+    "transaction_id": "T194",
+    "customer_id": 107,
+    "product_id": "P042",
+    "amount": 40000,
+    "payment_mode": "Credit Card"
+  },
+  {
+    "transaction_id": "T195",
+    "customer_id": 174,
+    "product_id": "P033",
+    "amount": 1823,
+    "payment_mode": null
+  },
+  {
+    "transaction_id": "T196",
+    "customer_id": 117,
+    "product_id": "P036",
+    "amount": 25000,
+    "payment_mode": "Debit Card"
+  },
+  {
+    "transaction_id": "T197",
+    "customer_id": 208,
+    "product_id": "P027",
+    "amount": 40000,
+    "payment_mode": "Cash"
+  },
+  {
+    "transaction_id": "T198",
+    "customer_id": 109,
+    "product_id": "P011",
+    "amount": 40000,
+    "payment_mode": "Credit Card"
+  },
+  {
+    "transaction_id": "T199",
+    "customer_id": 196,
+    "product_id": "P016",
+    "amount": 25000,
+    "payment_mode": "Debit Card"
+  },
+  {
+    "transaction_id": "T200",
+    "customer_id": 150,
+    "product_id": "P002",
+    "amount": 1442,
+    "payment_mode": null
+  },
+  {
+    "transaction_id": "T201",
+    "customer_id": 208,
+    "product_id": "P042",
+    "amount": 25000,
+    "payment_mode": null
+  },
+  {
+    "transaction_id": "T202",
+    "customer_id": 178,
+    "product_id": "P032",
+    "amount": 40000,
+    "payment_mode": "Debit Card"
+  },
+  {
+    "transaction_id": "T203",
+    "customer_id": 146,
+    "product_id": "P036",
+    "amount": 40000,
+    "payment_mode": "Cash"
+  },
+  {
+    "transaction_id": "T204",
+    "customer_id": 195,
+    "product_id": "P045",
+    "amount": 40000,
+    "payment_mode": "Credit Card"
+  },
+  {
+    "transaction_id": "T205",
+    "customer_id": 184,
+    "product_id": "P038",
+    "amount": 40000,
+    "payment_mode": null
+  },
+  {
+    "transaction_id": "T206",
+    "customer_id": 165,
+    "product_id": "P021",
+    "amount": 40000,
+    "payment_mode": "Cash"
+  },
+  {
+    "transaction_id": "T207",
+    "customer_id": 149,
+    "product_id": "P017",
+    "amount": 40000,
+    "payment_mode": null
+  },
+  {
+    "transaction_id": "T208",
+    "customer_id": 126,
+    "product_id": "P016",
+    "amount": 25000,
+    "payment_mode": "Debit Card"
+  },
+  {
+    "transaction_id": "T209",
+    "customer_id": 163,
+    "product_id": "P009",
+    "amount": 40000,
+    "payment_mode": "UPI"
+  },
+  {
+    "transaction_id": "T210",
+    "customer_id": 161,
+    "product_id": "P031",
+    "amount": 25000,
+    "payment_mode": "Cash"
+  },
+  {
+    "transaction_id": "T211",
+    "customer_id": 106,
+    "product_id": "P025",
+    "amount": 1595,
+    "payment_mode": null
+  },
+  {
+    "transaction_id": "T212",
+    "customer_id": 106,
+    "product_id": "P036",
+    "amount": 4761,
+    "payment_mode": "Credit Card"
+  },
+  {
+    "transaction_id": "T213",
+    "customer_id": 191,
+    "product_id": "P035",
+    "amount": 40000,
+    "payment_mode": "Cash"
+  },
+  {
+    "transaction_id": "T214",
+    "customer_id": 215,
+    "product_id": "P045",
+    "amount": 40000,
+    "payment_mode": "Credit Card"
+  },
+  {
+    "transaction_id": "T215",
+    "customer_id": 104,
+    "product_id": "P038",
+    "amount": 40000,
+    "payment_mode": null
+  },
+  {
+    "transaction_id": "T216",
+    "customer_id": 194,
+    "product_id": "P023",
+    "amount": 3048,
+    "payment_mode": "Debit Card"
+  },
+  {
+    "transaction_id": "T217",
+    "customer_id": 140,
+    "product_id": "P033",
+    "amount": 25000,
+    "payment_mode": "Cash"
+  },
+  {
+    "transaction_id": "T218",
+    "customer_id": 101,
+    "product_id": "P021",
+    "amount": 25000,
+    "payment_mode": "UPI"
+  },
+  {
+    "transaction_id": "T219",
+    "customer_id": 129,
+    "product_id": "P029",
+    "amount": 25000,
+    "payment_mode": null
+  },
+  {
+    "transaction_id": "T220",
+    "customer_id": 203,
+    "product_id": "P005",
+    "amount": 1102,
+    "payment_mode": "Debit Card"
+  }
+]
